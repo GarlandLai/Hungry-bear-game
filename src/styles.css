@@ -1,0 +1,8 @@
+.output {
+  font-size: 250px;
+  text-align: center;
+}
+
+#levelUp {
+  display: none;
+}
